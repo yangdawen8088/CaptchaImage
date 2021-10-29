@@ -1,0 +1,10 @@
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\bin\Debug\CaptchaImage.exe.config
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\bin\Debug\CaptchaImage.exe
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\bin\Debug\CaptchaImage.pdb
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.csproj.AssemblyReference.cache
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.Form1.resources
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.Properties.Resources.resources
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.csproj.GenerateResource.cache
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.csproj.CoreCompileInputs.cache
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.exe
+E:\我的学习资源\Net\CaptchaImage\CaptchaImage\obj\Debug\CaptchaImage.pdb
